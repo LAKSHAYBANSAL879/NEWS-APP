@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+}
+body{
+    background: linear-gradient(85deg,rgb(146, 222, 227),rgb(190, 96, 237));
+}
+.load img{
+    border-radius: 50%;
+    background: linear-gradient(85deg,rgb(146, 222, 227),rgb(190, 96, 237));
+    /* margin-left: 44vw; */
+    /* margin-bottom: 4vh; */
+    /* margin-top: 2vh; */
+    width: 80px;
+    height: 80px;
+}
+#heading{
+    text-align: center;
+    padding: 20px;
+}
+.news{
+    margin-top: 3vh;
+    /* margin-left: 4vw; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+justify-content: center;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  margin: 20px;
+    justify-content: center;
+}
+.prevnextbtn{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 0.5vw;
+margin-top: 2vh;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+}
