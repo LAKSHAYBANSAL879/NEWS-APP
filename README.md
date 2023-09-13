@@ -1,3 +1,3 @@
 # NEWS-APP
 I MADE THIS NEWS APP USING BOOTSTRAP 5, EXPRESS JS, JAVASCRIPT , HTML & CSS THE API USED IS FROM newsapi.org
-<img src=""></img>
+<img src="Screenshot 2023-09-13 120559.png"></img>
